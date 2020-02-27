@@ -1,4 +1,4 @@
-package  com.android.modernbottomnavigation
+package  com.android.modern
 
 import android.util.SparseIntArray
 import android.view.MenuItem

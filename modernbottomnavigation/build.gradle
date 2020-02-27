@@ -49,9 +49,9 @@ def gitUrl = 'https://github.com/AlbertShen0211/ModernBottomNavigation.git'
 //发布到JCenter上的项目名字
 def libName = "ModernBottomNavigation"
 
-group = "com.android"
+group = "com.android.modern"
 // 版本号，下次更新是只需要更改版本号即可
-version = "1.0.1"
+version = "1.0.0"
 //上面配置后上传至JCenter后的编译路径是这样的： compile 'me.songning.CircleView:library:1.0.0'
 
 task generateSourcesJar(type: Jar) {
@@ -120,7 +120,7 @@ install {
             project {
                 packaging 'aar'
                 //项目描述，随意填
-                name 'Modern bottom navigation.'
+                name 'ModernBottomNavigation'
                 url siteUrl
                 licenses {
                     license {
@@ -157,11 +157,11 @@ bintray {
     configurations = ['archives']
     pkg {
         //注意：这里的repo值必须要和你创建Maven仓库的时候的名字一样
-        repo = "Android-Common-Library"
+        repo = "ModernBottomNavigation"
         //发布到JCenter上的项目名字
         name = libName
         //项目描述
-        desc = 'Kotlin, common tool package, commonliarary, Activity and other component extensions, SharedPreferences package, Toast package, etc.'
+        desc = 'Modern bottom navigation.'
         websiteUrl = siteUrl
         vcsUrl = gitUrl
         licenses = ["Apache-2.0"]

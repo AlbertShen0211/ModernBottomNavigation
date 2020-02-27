@@ -1,4 +1,4 @@
-package com.android.modernbottomnavigation
+package com.android.modern
 import android.content.Context
 import android.content.res.ColorStateList
 import android.graphics.Typeface

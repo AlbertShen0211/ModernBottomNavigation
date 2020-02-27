@@ -1,4 +1,4 @@
-package  com.android.modernbottomnavigation
+package  com.android.modern
 
 import androidx.viewpager2.widget.ViewPager2.OnPageChangeCallback
 import java.lang.ref.WeakReference

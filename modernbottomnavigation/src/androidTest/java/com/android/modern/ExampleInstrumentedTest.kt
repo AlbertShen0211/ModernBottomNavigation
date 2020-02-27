@@ -1,4 +1,4 @@
-package com.android.modernbottomnavigation
+package com.android.modern
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

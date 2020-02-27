@@ -1,4 +1,4 @@
-package  com.android.modernbottomnavigation
+package  com.android.modern
 
 import android.annotation.SuppressLint
 import android.content.Context
