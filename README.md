@@ -27,7 +27,7 @@
 	&#60;type&#62; pom&#60;/type&#62;
 
   &#60;/dependency&#62;
-
+...
 or Gradle:
 
   implementation 'com.android.modern:modernbottomnavigation:1.0.0'
