@@ -17,28 +17,26 @@
 
   Download the latest JAR or grab  
    via Maven:
-  &#60;dependency&#62;  
-	&#60;groupId&#62;  com.android.modern&#60;/groupId&#62;
+   ```
+  <dependency>  
+ <groupId>com.android.modern</groupId>
+   <artifactId>modernbottomnavigation</artifactId>
+<version>1.0.0</version>
+<type>pom</type>
+  </dependency>
+```
 
-&#60;artifactId&#62; modernbottomnavigation&#60;/artifactId&#62;
 
-&#60;version&#62; 1.0.0&#60;/version&#62;
-	&#60;type&#62; pom&#60;/type&#62;
-
-  &#60;/dependency&#62;
-...
 or Gradle:
-
+```
   implementation 'com.android.modern:modernbottomnavigation:1.0.0'
-
+```
 or Ivy:
-
-&#60;dependency org="com.android.modern" name="modernbottomnavigation" rev="1.0.0"&#62;
-
-&#60;artifact name="modernbottomnavigation" ext="pom"&#62;&#60;/artifact&#62;
-
-  &#60;/dependency&#62;
-
+```
+<dependency org="com.android.modern" name="modernbottomnavigation" rev="1.0.0">
+<artifact name="modernbottomnavigation" ext="pom"></artifact>
+</dependency>
+```
 ## License
 
 ModernBottomNavigation library for Android
