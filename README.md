@@ -1,10 +1,10 @@
 # ModernBottomNavigation
 
-  <font size=6>**Description**</font>
+  <font size=10>**Description**</font>
 
   This library written in kotlin mimics the new Material Design Bottom Navigation pattern.
 
-  <font size=6>**Features**</font>
+  <font size=10>**Features**</font>
 
   This library offers ton of customisations that you can do to Bottom Navigation Bar.
 
@@ -12,7 +12,7 @@
 
    Custom icon, text size
 
- <font size=6>**Download**</font>
+ <font size=10>**Download**</font>
 
   Based on your IDE you can import library in one of the following ways
 
@@ -40,7 +40,7 @@ or Ivy:
 
   &#60;/dependency&#62;
 
-<font size=6>**License**</font>
+<font size=10>**License**</font>
 
 ModernBottomNavigation library for Android
 Copyright (c) 2020 Albert Shen
