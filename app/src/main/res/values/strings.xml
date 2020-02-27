@@ -1,0 +1,72 @@
+<!--
+  ~ Copyright (C) 2018 Google Inc.
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Aleks Haecky</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">Hi, my name is Aleks.
+\n\nI love fish.
+\n\nThe kind that is alive and swims around in an aquarium or river, or a lake, and definitely the ocean.
+\nFun fact is that I have several aquariums and also a river.
+\n\nI like eating fish, too. Raw fish. Grilled fish. Smoked fish. Poached fish - not so much.
+\nAnd sometimes I even go fishing.
+\nAnd even less sometimes, I actually catch something.
+\n\nOnce, when I was camping in Canada, and very hungry, I even caught a large salmon with my hands.
+\n\nI\'ll be happy to teach you how to make your own aquarium.
+\nYou should ask someone else about fishing, though.\n\n</string>
+
+
+    <string name="game">Game</string>
+    <string name="three">Three</string>
+    <string name="friends">Friends</string>
+    <string name="favor">Love</string>
+
+    <string name="lamp">Lamp</string>
+    <string name="weather">Weather</string>
+    <string name="face">Face</string>
+
+    <string name="visibility">Settings</string>
+    <string name="different_style">Different style</string>
+    <string name="with_view_pager">With ViewPager</string>
+
+    <string name="no_animation_shifting_mode_item_shifting_mode_icon" translatable="false">no animation/ shifting mode/ item shifting mode/ icon</string>
+    <string name="no_item_shifting_mode_icon" translatable="false">no item shifting mode/ icon</string>
+    <string name="no_shifting_mode_item_shifting_mode_icon" translatable="false">no shifting mode/ item shifting mode/ icon</string>
+    <string name="no_animation_shifting_mode_item_shifting_mode_text" translatable="false">no animation/ shifting mode/ item shifting mode/ text</string>
+    <string name="no_shifting_mode_item_shift_mode_text" translatable="false">no shifting mode/ item shift mode/ text</string>
+    <string name="no_animation_shifting_mode_item_shifting_mode" translatable="false">no animation/ shifting mode/ item shifting mode</string>
+    <string name="no_animation_item_shifting_mode" translatable="false">no animation/ item shifting mode</string>
+    <string name="no_animation_shifting_mode" translatable="false">no animation/ shifting mode</string>
+    <string name="no_icon" translatable="false">no icon</string>
+    <string name="no_text" translatable="false">no text</string>
+    <string name="no_item_shifting_mode" translatable="false">no item shifting mode</string>
+    <string name="no_shifting_mode" translatable="false">no shifting mode</string>
+    <string name="no_animation" translatable="false">no animation</string>
+    <string name="normal" translatable="false">normal</string>
+    <string name="setup_with_view_pager" translatable="false">setup with view pager</string>
+    <string name="badge_view">badge view</string>
+    <string name="with_padding" translatable="false">with padding</string>
+    <string name="center_icon_only" translatable="false">center icon only</string>
+    <string name="smaller_text" translatable="false">smaller text (custom font size)</string>
+    <string name="bigger_icon" translatable="false">bigger icon (custom icon size)</string>
+    <string name="custom_typeface" translatable="false">custom typeface</string>
+    <string name="icon_selector" translatable="false">icon selector</string>
+    <string name="icon_margin_top" translatable="false">icon margin top</string>
+    <string name="tips_badge_removed" translatable="false">Badge is removed</string>
+    <string name="unchecked_first_time" translatable="false">unchecked first time</string>
+    <string name="center_fab">Center Fab</string>
+</resources>
