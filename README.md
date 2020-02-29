@@ -1,4 +1,13 @@
 # ModernBottomNavigation
+
+<table>
+    <tr>
+        <td ><center><img src="https://github.com/AlbertShen0211/ModernBottomNavigation/blob/master/nav1.gif">nav1</center></td>
+        <td ><center><img src="https://github.com/AlbertShen0211/ModernBottomNavigation/blob/master/nav2.gif">nav2</center></td>
+        <td><center><img src="https://github.com/AlbertShen0211/ModernBottomNavigation/blob/master/nav3.gif">nav3</center></td>
+    </tr>
+</table>
+
 ## Description
 
   This library written in kotlin mimics the new Material Design Bottom Navigation pattern.
